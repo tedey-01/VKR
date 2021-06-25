@@ -1,0 +1,4 @@
+imageai==2.1.6
+tensorflow==2.5.0
+Keras==2.4.3
+tqdm
